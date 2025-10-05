@@ -37,4 +37,5 @@ if __name__ == "__main__":
     results_output_filepath = os.path.join(project_root, 'results.csv')
 
     run_pipeline(data_filepath, results_output_filepath)
-    # run_pipeline(data_filepath, location_filter="Lake C") # Example for bonus filter
+
+
